@@ -1,0 +1,1 @@
+This is a basic implementation of a multi-select dropdown, meant to replace any multiple-select base HTML elements. This is contained entirely within a single javascript file, which would only need to be added to a given html file under a script element. All CSS is contained within the javascript file, and can be modified as needed.
